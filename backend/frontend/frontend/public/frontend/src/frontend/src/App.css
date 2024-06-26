@@ -1,0 +1,22 @@
+/* Add your CSS styles here */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+footer {
+  margin-top: auto;
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+}
