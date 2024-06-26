@@ -1,0 +1,20 @@
+exame/
+    backend/
+        app.js
+        package.json
+        package-lock.json
+        README.md
+    frontend/
+        public/
+            index.html
+        src/
+            App.css
+            App.js
+            index.css
+            index.js
+            README.md
+        package.json
+        package-lock.json
+        README.md
+    README.md
+    .gitignore
