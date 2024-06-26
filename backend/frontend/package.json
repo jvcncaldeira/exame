@@ -1,0 +1,22 @@
+{
+  "name": "taskmanager-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for TaskManager application",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}
